@@ -1,0 +1,27 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=Vexis Bot
+base_path=/home/alex/programming/projects/vexis-bot/
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=4116;C++;0;16;1;1;0;/home/alex/desktop/programming/projects/vexis-bot/main.cpp;0
+FILE_NAME_1=788;C++;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/error.cpp;0
+FILE_NAME_2=0;C;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/error.h;0
+FILE_NAME_3=4190;C++;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/netsock.cpp;0
+FILE_NAME_4=0;C;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/netsock.h;0
+FILE_NAME_5=0;C;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/os.h;0
+FILE_NAME_6=0;C++;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/text.cpp;0
+FILE_NAME_7=0;C;0;16;1;1;0;/home/alex/desktop/programming/projects/versilis/text.h;0
